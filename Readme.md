@@ -1,1 +1,1 @@
-This project makes a Pythagoras calculator.
+This project makes an interface for Pythagoras calculator.
